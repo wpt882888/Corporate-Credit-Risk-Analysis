@@ -45,9 +45,6 @@ The analysis identified significant operating cash flow pressure, inventory grow
 - U.S. Department of the Treasury – OFAC
 - U.S. Consolidated Screening List
 
-## Disclaimer
-
-This is an independent research project based on publicly available information. The scoring framework is illustrative and does not represent a bank's internal credit rating methodology or an actual lending decision.
 
 ## Disclaimer
 
